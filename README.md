@@ -15,7 +15,7 @@ pip install -r requirements
 
 ## Curriculum
 0. Introduction - [[video](https://youtu.be/S78PDWGD0Yo)]
-0. Download stock historicals using Yahoo! Finance library (yahoo_fin) - [[video](https://youtu.be/deutUWzoCsQ)]
+0. Download stock historicals using Yahoo! Finance library (yahoo_fin) - [[video 1](https://youtu.be/deutUWzoCsQ)] [[video 2](https://youtu.be/-8_2-oizaRE)]
 0. Preprocessing (features, cleansing, removing outliers) - Coming soon!
 0. Simple trading strategies - Coming soon!
 0. Backtesting (Backtrader) - Coming soon!
